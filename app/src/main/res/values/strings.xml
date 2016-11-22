@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Calculator</string>
     <string name="action_settings">Settings</string>
+    <string name="help_instructions">Enter Two Numbers</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="divide">/</string>
+    <string name="multiply">*</string>
+    <string name="result">Result</string>
+    <string name="clr">CLR</string>
 </resources>
